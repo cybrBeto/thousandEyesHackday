@@ -1,0 +1,7 @@
+# thousandEyesHackday
+Howdy! This project was made for a hackathon that occured during my internship at Cisco Meraki. The hackathon took place with the ThousandEyes team.
+My hackathon team was called CAWS: Context Aware WLAN Security. Basically, we made a dynamic security protocol ThousandEyes.
+It is an AI/ML based WLAN Security Engine with optional integration to ThousandEyes. We bring up a server running AI/ML, 
+which selects the suitable algorithm and we need to make the algorithm learn with some suitable inputs related to users (access and other context related parameters like user name, location, time, device etc)
+
+Abstract: Traditionally WLAN security methods are mostly static, i.e the mechanism is same irrespective the user, device and situation for given WLAN. With the ever growing technology and complexity of threats, there is every need to make the security mechanisms agile and dynamic. Our proposal is one such step to make WLAN security dynamic and context based. Instead of static mechanism, the type and level of security will applied based the context like; (1) who is the user? (2) what is the device? (3) Geo Location where from he is joining? (4) When(Time of the day) is he joining? AI/ML based WSE(WLAN Security Engine), which will analyze these factors and also the historical aspects and device and what type of security mechanism and how many levels of security shall be applied. This mechanism will ease the access to the legitimate users and challenge the unwanted access."
