@@ -1,0 +1,4 @@
+﻿client_mac_x,username,Privilege-score,Device-score,Managed_score,Hour-Common,Site-Common,location_score,Security-Factor,Policy-Profile
+04f0.2185.62d8,(svc_7signal_cert@spe.sony.com),0,0,0,0,0,0,0,Policy: L2 Auth
+04f0.2185.62d8,(svc_7signal_cert@spe.sony.com),0,0,20,0,0,0,0.588235294,Policy: L2 Auth + Two factor auth + Posturing
+04f0.2185.62d8,(svc_7signal_cert@spe.sony.com),0,0,0,0,0,1,0.029411765,Policy: L2 Auth+ Two factor auth
